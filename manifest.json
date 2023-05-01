@@ -2,6 +2,7 @@
     "name": "Ancient Empire: Strike Back",
     "lang": "en-US",
     "display": "standalone",
+    "display_override": ["standalone"],
     "short_name": "Ancient Empire: Strike Back",
     "start_url": "/",
     "scope": "/",
@@ -10,6 +11,8 @@
     "prefer_related_applications": true,
     "orientation": "any",
     "categories": ["games"],
+    "related_applications": [],
+    "dir": "ltr",
     "description": "\"Ancient Empire: Strike Back\" is a thrilling strategy game that lets you control King Galamar and his brother Valadorn as they fight to protect their kingdom from evil.",
     "screenshots" : [
         {
