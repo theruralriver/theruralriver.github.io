@@ -9,6 +9,20 @@
     "theme_color": "#262d4f",
     "prefer_related_applications": true,
     "orientation": "any",
+    "screenshots" : [
+        {
+            "src": "/static/screenshots/screenshot.webp",
+            "sizes": "720x1230",
+            "type": "image/webp",
+            "platform": "wide"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Game",
+            "url": "/"
+        }
+    ],
     "icons": [
         {
             "src": "/static/icon/icon-36.png",
